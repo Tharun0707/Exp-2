@@ -4,7 +4,7 @@ Name: THARUN SRIDHAR
 Reg No: 212223230230
 ```
 
-# AIM:
+# AIM: 
 To draw a UML diagram for a library management system
 
 # SRS (Procedure):
